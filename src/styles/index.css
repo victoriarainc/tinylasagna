@@ -2,4 +2,8 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background-image: url('https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/8407_952300408172304_7232995513502735716_n.jpg?oh=998523024140ee070bbaeb139aa16d66&oe=5A60C7EB');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
