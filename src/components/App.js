@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="App container-fluid">
         <NavBar />
-        <PlayListForm name={this.state.value} handleNameChange={this.handleNameChange} handleSubmit={this.handleSubmit} pilot={this.state.pilot}/>
+        <PlayListForm />
         <PlayList />
       </div>
     );

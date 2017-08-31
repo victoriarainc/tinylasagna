@@ -36,7 +36,7 @@ export default class PlayList extends Component {
         );
       }
     });
-    console.log(items);
+    // console.log(items);
     return (
       <div className="col-md-10 offset-md-1">
         <div className="playList row">

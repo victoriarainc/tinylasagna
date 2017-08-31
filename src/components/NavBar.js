@@ -9,7 +9,7 @@ export default class NavBar extends Component {
       <div className="row">
         <div className="col-md-10 offset-md-1">
           <section className="navBar jumbotron">
-            Tiny Lasagna Song Title Creator
+            Tiny Lasagnas
           </section>
         </div>
       </div>
